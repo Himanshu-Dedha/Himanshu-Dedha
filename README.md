@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Himanshu!!
 
 <!--
 **Himanshu-Dedha/Himanshu-Dedha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently learning java and javascript
+
 
