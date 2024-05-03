@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dedha</h1>
-<h3 align="center">I'm a</h3>
+<h3 align="center">Software Development Engineer at Veersa Technologies. </h3>
 
 - 🔭 I’m currently working on **Terminal Music Player**
 
