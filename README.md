@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dedha.himanshu114h@gmail.com**
 
-- 📄 Know about my experiences [Currently an SDE Intern](Currently an SDE Intern)
+- 📄 Know about my experiences Currently an SDE Intern)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
