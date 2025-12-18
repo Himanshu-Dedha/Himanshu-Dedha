@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dedha</h1>
 <h3 align="center">Software Development Engineer at Veersa Technologies. </h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **A Notes Aggregator**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
