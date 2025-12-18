@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dedha</h1>
 <h3 align="center">Software Development Engineer at Veersa Technologies. </h3>
 
-- 🔭 I’m currently working on **Terminal Music Player**
-
-- 🌱 I’m currently learning **Next Js**
+- 🔭 I’m currently working on ****
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **Spring Boot, React, Node, FastAPI, Docker**
+- 💬 Ask me about **Spring Boot, python, Node, FastAPI, Docker**
 
 - 📫 How to reach me **dedha.himanshu114h@gmail.com**
 
-- 📄 Know about my experiences Currently an SDE Intern)
+- 📄 Know about my experiences (Currently an SDE with 1.5+ years of experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
